@@ -1,4 +1,5 @@
+AuthName "Dialog prompt"
 AuthType Basic
-AuthName "Login Required"
-AuthUserFile /home/tcakvo/.htpasswds/.iucn
-Require user tof-user
+AuthUserFile /home/u7-nnfq7m4dqfyx/www/iucn.tc.akvo.org/public_html/trees-on-farms/.htpasswd
+Require valid-user
+
